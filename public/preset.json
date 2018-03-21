@@ -1,0 +1,46 @@
+[
+    {
+        "PRESET": 1,
+        "data": "Gold"
+    },
+    {
+        "PRESET": 2,
+        "data": "Silver"
+    },
+    {
+        "PRESET": 3,
+        "data": "Diamond"
+    },
+    {
+        "PRESET": 4,
+        "data": "Platinum"
+    },
+    {
+        "PRESET": 7,
+        "data": "Titanium"
+    },
+    {
+        "PRESET": 8,
+        "data": "Steel"
+    },
+    {
+        "PRESET": 9,
+        "data": "Platinum"
+    },
+    {
+        "PRESET": 10,
+        "data": "Uranium"
+    },
+    {
+        "PRESET": 11,
+        "data": "Mercury"
+    },
+    {
+        "PRESET": 14,
+        "data": "Phosphorus"
+    },
+    {
+        "PRESET": 17,
+        "data": "Sodium"
+    }
+]
