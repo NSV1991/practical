@@ -5,7 +5,7 @@ const todosController = require('../controllers/TodoControler');
 router.get('/', function (req, res, next) {
   res.render('index', { title: 'Practical code for interview' });
 });
-
+ 
 router.get('/api/todos', function (req, res, next) {
   todosController.readDataFromJson(function (err, result) {
     if (err) {
